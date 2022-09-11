@@ -1,5 +1,6 @@
 Dataset contains the following:
-Activity The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
+
+The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
 
 1.WALKING
 
