@@ -1,4 +1,4 @@
-# getting-and-cleaning-data-Week-4-Assignment
+Getting-and-cleaning-data-Week-4-Assignment
 ==================================================================
 Week4 Project for Getting and Cleaning data
 This project contains dataset obtained from   from the link http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and the dataset are https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in this folder
